@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kathmandu777/math_react_app.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kathmandu777/math_react_app.git/static/js/main.601b237a.chunk.js",
+    "main.js.map": "/kathmandu777/math_react_app.git/static/js/main.601b237a.chunk.js.map",
+    "runtime-main.js": "/kathmandu777/math_react_app.git/static/js/runtime-main.804e671f.js",
+    "runtime-main.js.map": "/kathmandu777/math_react_app.git/static/js/runtime-main.804e671f.js.map",
+    "static/js/2.9b1c52d1.chunk.js": "/kathmandu777/math_react_app.git/static/js/2.9b1c52d1.chunk.js",
+    "static/js/2.9b1c52d1.chunk.js.map": "/kathmandu777/math_react_app.git/static/js/2.9b1c52d1.chunk.js.map",
+    "index.html": "/kathmandu777/math_react_app.git/index.html",
+    "precache-manifest.3de1a5fc7453ebaf3d214e59ccfb1eca.js": "/kathmandu777/math_react_app.git/precache-manifest.3de1a5fc7453ebaf3d214e59ccfb1eca.js",
+    "service-worker.js": "/kathmandu777/math_react_app.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kathmandu777/math_react_app.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9b1c52d1.chunk.js.LICENSE.txt": "/kathmandu777/math_react_app.git/static/js/2.9b1c52d1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kathmandu777/math_react_app.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.804e671f.js",
+    "static/js/2.9b1c52d1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.601b237a.chunk.js"
+  ]
+}
