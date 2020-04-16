@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/kathmandu777/math_react_app.git/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/kathmandu777/math_react_app.git/static/js/main.495b5497.chunk.js",
-    "main.js.map": "/kathmandu777/math_react_app.git/static/js/main.495b5497.chunk.js.map",
-    "runtime-main.js": "/kathmandu777/math_react_app.git/static/js/runtime-main.804e671f.js",
-    "runtime-main.js.map": "/kathmandu777/math_react_app.git/static/js/runtime-main.804e671f.js.map",
-    "static/js/2.b07003e4.chunk.js": "/kathmandu777/math_react_app.git/static/js/2.b07003e4.chunk.js",
-    "static/js/2.b07003e4.chunk.js.map": "/kathmandu777/math_react_app.git/static/js/2.b07003e4.chunk.js.map",
-    "index.html": "/kathmandu777/math_react_app.git/index.html",
-    "precache-manifest.fb2a6216d30481fde986b2765294967a.js": "/kathmandu777/math_react_app.git/precache-manifest.fb2a6216d30481fde986b2765294967a.js",
-    "service-worker.js": "/kathmandu777/math_react_app.git/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/kathmandu777/math_react_app.git/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.b07003e4.chunk.js.LICENSE.txt": "/kathmandu777/math_react_app.git/static/js/2.b07003e4.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/kathmandu777/math_react_app.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/math_react_app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/math_react_app/static/js/main.ec8c6376.chunk.js",
+    "main.js.map": "/math_react_app/static/js/main.ec8c6376.chunk.js.map",
+    "runtime-main.js": "/math_react_app/static/js/runtime-main.84f1f4cf.js",
+    "runtime-main.js.map": "/math_react_app/static/js/runtime-main.84f1f4cf.js.map",
+    "static/js/2.b07003e4.chunk.js": "/math_react_app/static/js/2.b07003e4.chunk.js",
+    "static/js/2.b07003e4.chunk.js.map": "/math_react_app/static/js/2.b07003e4.chunk.js.map",
+    "index.html": "/math_react_app/index.html",
+    "precache-manifest.d0e3eae9ada6a12d20dd57865b4fccb5.js": "/math_react_app/precache-manifest.d0e3eae9ada6a12d20dd57865b4fccb5.js",
+    "service-worker.js": "/math_react_app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/math_react_app/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b07003e4.chunk.js.LICENSE.txt": "/math_react_app/static/js/2.b07003e4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/math_react_app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.804e671f.js",
+    "static/js/runtime-main.84f1f4cf.js",
     "static/js/2.b07003e4.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.495b5497.chunk.js"
+    "static/js/main.ec8c6376.chunk.js"
   ]
 }
