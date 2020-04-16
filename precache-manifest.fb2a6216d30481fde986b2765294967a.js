@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b81a6529631b6a74c83624b467de2901",
+    "revision": "569b006d8ff84df0582ac096618d7fa9",
     "url": "/kathmandu777/math_react_app.git/index.html"
   },
   {
-    "revision": "e40e0979b12548d64fe6",
+    "revision": "8e7415b92b044ae1e10b",
     "url": "/kathmandu777/math_react_app.git/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kathmandu777/math_react_app.git/static/js/2.b07003e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e40e0979b12548d64fe6",
-    "url": "/kathmandu777/math_react_app.git/static/js/main.424738aa.chunk.js"
+    "revision": "8e7415b92b044ae1e10b",
+    "url": "/kathmandu777/math_react_app.git/static/js/main.495b5497.chunk.js"
   },
   {
     "revision": "49318474f6f93b9bd6dc",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kathmandu777/math_react_app.git/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/kathmandu777/math_react_app.git/static/js/main.424738aa.chunk.js",
-    "main.js.map": "/kathmandu777/math_react_app.git/static/js/main.424738aa.chunk.js.map",
+    "main.js": "/kathmandu777/math_react_app.git/static/js/main.495b5497.chunk.js",
+    "main.js.map": "/kathmandu777/math_react_app.git/static/js/main.495b5497.chunk.js.map",
     "runtime-main.js": "/kathmandu777/math_react_app.git/static/js/runtime-main.804e671f.js",
     "runtime-main.js.map": "/kathmandu777/math_react_app.git/static/js/runtime-main.804e671f.js.map",
     "static/js/2.b07003e4.chunk.js": "/kathmandu777/math_react_app.git/static/js/2.b07003e4.chunk.js",
     "static/js/2.b07003e4.chunk.js.map": "/kathmandu777/math_react_app.git/static/js/2.b07003e4.chunk.js.map",
     "index.html": "/kathmandu777/math_react_app.git/index.html",
-    "precache-manifest.9e760bba8d08c8bd4616b9f714878d9a.js": "/kathmandu777/math_react_app.git/precache-manifest.9e760bba8d08c8bd4616b9f714878d9a.js",
+    "precache-manifest.fb2a6216d30481fde986b2765294967a.js": "/kathmandu777/math_react_app.git/precache-manifest.fb2a6216d30481fde986b2765294967a.js",
     "service-worker.js": "/kathmandu777/math_react_app.git/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/kathmandu777/math_react_app.git/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.b07003e4.chunk.js.LICENSE.txt": "/kathmandu777/math_react_app.git/static/js/2.b07003e4.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.804e671f.js",
     "static/js/2.b07003e4.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.424738aa.chunk.js"
+    "static/js/main.495b5497.chunk.js"
   ]
 }
